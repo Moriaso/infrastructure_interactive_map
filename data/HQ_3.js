@@ -1,0 +1,1 @@
+var json_HQ_3 = {"type":"FeatureCollection","name":"HQ_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"HQ":"The Maa Trust","_GPS location_latitude":-1.36902,"_GPS location_longitude":35.22988},"geometry":{"type":"Point","coordinates":[35.2298758,-1.3690178]}}]}
